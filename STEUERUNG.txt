@@ -1,0 +1,9 @@
+W A S D  - Im Raum bewegen
+
+Shift - Nach Unten Bewegen
+
+Space - Nach Oben Bewegen
+
+Linksklic - Node markieren, Interface bedienen
+
+Rechtsklick + Maus - Rotation der Kamera
